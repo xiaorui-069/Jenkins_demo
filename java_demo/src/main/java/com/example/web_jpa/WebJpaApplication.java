@@ -9,6 +9,7 @@ public class WebJpaApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(WebJpaApplication.class, args);
+        System.out.println("Hello World!");
     }
 
 }
